@@ -32,26 +32,12 @@ Interact dynamically with your mouse or touch to explore the visual effects! Mov
 ## 📂 Project Structure
 ```text
 wiggle/
-├── .vercel
-│   ├── project.json
-│   └── README.txt
-├── assets
-│   └── footer.png
-├── components
-├── font
-│   └── termina-test
-│       ├── TerminaTest-Black.otf
-│       ├── TerminaTest-Bold.otf
-│       ├── TerminaTest-Demi.otf
-│       ├── TerminaTest-ExtraLight.otf
-│       ├── TerminaTest-Heavy.otf
-│       ├── TerminaTest-Light.otf
-│       ├── TerminaTest-Medium.otf
-│       ├── TerminaTest-Regular.otf
-│       └── TerminaTest-Thin.otf
-├── scripts
-├── styles
-│   └── styles.css
+├── .vercel/
+├── assets/
+├── components/
+├── font/
+├── scripts/
+├── styles/
 ├── .gitignore
 ├── contact.html
 ├── eye.png
