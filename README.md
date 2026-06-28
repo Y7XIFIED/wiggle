@@ -30,22 +30,38 @@ Interact dynamically with your mouse or touch to explore the visual effects! Mov
    ```
 
 ## 📂 Project Structure
-
-- 📁 **.vercel/**
-- 📁 **assets/**
-- 📁 **components/**
-- 📁 **font/**
-- 📁 **scripts/**
-- 📁 **styles/**
-- 📄 `.gitignore`
-- 📄 `contact.html`
-- 📄 `eye.png`
-- 📄 `index.html`
-- 📄 `playground.html`
-- 📄 `README.md`
-- 📄 `script.js`
-- 📄 `sphere.png`
-- 📄 `studio.html`
+```text
+wiggle/
+├── .vercel
+│   ├── project.json
+│   └── README.txt
+├── assets
+│   └── footer.png
+├── components
+├── font
+│   └── termina-test
+│       ├── TerminaTest-Black.otf
+│       ├── TerminaTest-Bold.otf
+│       ├── TerminaTest-Demi.otf
+│       ├── TerminaTest-ExtraLight.otf
+│       ├── TerminaTest-Heavy.otf
+│       ├── TerminaTest-Light.otf
+│       ├── TerminaTest-Medium.otf
+│       ├── TerminaTest-Regular.otf
+│       └── TerminaTest-Thin.otf
+├── scripts
+├── styles
+│   └── styles.css
+├── .gitignore
+├── contact.html
+├── eye.png
+├── index.html
+├── playground.html
+├── README.md
+├── script.js
+├── sphere.png
+└── studio.html
+```
 
 ## 💻 Tech Stack
 HTML5 & CSS3: Structural vectors and custom styling variables.
