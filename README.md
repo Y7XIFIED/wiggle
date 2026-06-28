@@ -30,13 +30,22 @@ Interact dynamically with your mouse or touch to explore the visual effects! Mov
    ```
 
 ## 📂 Project Structure
-```text
-wiggle/
-├── .vercel/
-├── assets/
-└── font/
-    └── termina-test/
-```
+
+- 📁 **.vercel/**
+- 📁 **assets/**
+- 📁 **components/**
+- 📁 **font/**
+- 📁 **scripts/**
+- 📁 **styles/**
+- 📄 `.gitignore`
+- 📄 `contact.html`
+- 📄 `eye.png`
+- 📄 `index.html`
+- 📄 `playground.html`
+- 📄 `README.md`
+- 📄 `script.js`
+- 📄 `sphere.png`
+- 📄 `studio.html`
 
 ## 💻 Tech Stack
 HTML5 & CSS3: Structural vectors and custom styling variables.
